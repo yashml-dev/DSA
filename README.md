@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashml-dev/DSA/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/yashml-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0169-majority-element](https://github.com/yashml-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashml-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashml-dev/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/yashml-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,4 +50,9 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashml-dev/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/yashml-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yashml-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
