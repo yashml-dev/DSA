@@ -75,6 +75,7 @@
 | [0197-rising-temperature](https://github.com/yashml-dev/DSA/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/yashml-dev/DSA/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/yashml-dev/DSA/tree/master/1068-product-sales-analysis-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashml-dev/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yashml-dev/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/yashml-dev/DSA/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
