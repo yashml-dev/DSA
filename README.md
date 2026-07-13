@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashml-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/yashml-dev/DSA/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
