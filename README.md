@@ -72,7 +72,7 @@
 ## Database
 |  |
 | ------- |
-| [0184-department-highest-salary](https://github.com/yashml-dev/DSA/tree/master/0184-department-highest-salary) |
+| [0182-duplicate-emails](https://github.com/yashml-dev/DSA/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/yashml-dev/DSA/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/yashml-dev/DSA/tree/master/0584-find-customer-referee) |
 | [0608-tree-node](https://github.com/yashml-dev/DSA/tree/master/0608-tree-node) |
