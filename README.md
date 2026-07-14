@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/yashml-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashml-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashml-dev/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +91,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashml-dev/DSA/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
