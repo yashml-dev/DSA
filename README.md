@@ -78,6 +78,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yashml-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/yashml-dev/DSA/tree/master/0933-number-of-recent-calls) |
 ## Database
 |  |
 | ------- |
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yashml-dev/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yashml-dev/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
