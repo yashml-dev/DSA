@@ -45,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/yashml-dev/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashml-dev/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashml-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0917-reverse-only-letters](https://github.com/yashml-dev/DSA/tree/master/0917-reverse-only-letters) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@
 | [0032-longest-valid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/yashml-dev/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/yashml-dev/DSA/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -175,4 +178,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
