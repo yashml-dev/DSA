@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/yashml-dev/DSA/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yashml-dev/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashml-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yashml-dev/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@
 | [0169-majority-element](https://github.com/yashml-dev/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashml-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashml-dev/DSA/tree/master/0242-valid-anagram) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yashml-dev/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,8 +202,13 @@
 | [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashml-dev/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashml-dev/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yashml-dev/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/yashml-dev/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
