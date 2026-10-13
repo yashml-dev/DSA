@@ -116,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yashml-dev/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashml-dev/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
