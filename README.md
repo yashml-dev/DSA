@@ -161,17 +161,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
