@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/yashml-dev/DSA/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yashml-dev/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yashml-dev/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yashml-dev/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -93,6 +94,7 @@
 | [0053-maximum-subarray](https://github.com/yashml-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yashml-dev/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yashml-dev/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashml-dev/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashml-dev/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -145,6 +148,7 @@
 | [0053-maximum-subarray](https://github.com/yashml-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +167,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +181,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,4 +252,24 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashml-dev/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yashml-dev/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
