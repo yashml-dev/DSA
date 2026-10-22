@@ -25,6 +25,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yashml-dev/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashml-dev/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/yashml-dev/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/yashml-dev/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
