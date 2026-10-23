@@ -142,6 +142,7 @@
 | [0032-longest-valid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/yashml-dev/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -183,6 +184,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashml-dev/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Breadth-First Search
@@ -200,6 +202,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashml-dev/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
@@ -208,6 +211,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashml-dev/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
