@@ -66,6 +66,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashml-dev/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/yashml-dev/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/yashml-dev/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/yashml-dev/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/yashml-dev/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/yashml-dev/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yashml-dev/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashml-dev/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashml-dev/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
