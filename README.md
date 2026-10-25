@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/yashml-dev/DSA/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yashml-dev/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yashml-dev/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -198,6 +199,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +294,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -312,4 +316,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashml-dev/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
