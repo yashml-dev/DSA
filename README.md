@@ -24,6 +24,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/yashml-dev/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yashml-dev/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yashml-dev/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yashml-dev/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashml-dev/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/yashml-dev/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -200,6 +201,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +299,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +324,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
