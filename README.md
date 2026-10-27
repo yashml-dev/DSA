@@ -192,6 +192,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashml-dev/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/yashml-dev/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/yashml-dev/DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashml-dev/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
@@ -215,6 +217,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashml-dev/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -224,6 +227,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashml-dev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/yashml-dev/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/yashml-dev/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Linked List
