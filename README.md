@@ -26,6 +26,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/yashml-dev/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yashml-dev/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/yashml-dev/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashml-dev/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yashml-dev/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yashml-dev/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -173,6 +174,7 @@
 | [0678-valid-parenthesis-string](https://github.com/yashml-dev/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/yashml-dev/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yashml-dev/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -349,6 +351,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/yashml-dev/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/yashml-dev/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yashml-dev/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
