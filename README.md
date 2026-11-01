@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/yashml-dev/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashml-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/yashml-dev/DSA/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yashml-dev/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/yashml-dev/DSA/tree/master/0503-next-greater-element-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashml-dev/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1254-number-of-closed-islands](https://github.com/yashml-dev/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -139,6 +140,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yashml-dev/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yashml-dev/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/yashml-dev/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yashml-dev/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
