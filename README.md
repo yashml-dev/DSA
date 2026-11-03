@@ -29,6 +29,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/yashml-dev/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/yashml-dev/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/yashml-dev/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashml-dev/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yashml-dev/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/yashml-dev/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/yashml-dev/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -146,6 +147,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/yashml-dev/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashml-dev/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/yashml-dev/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashml-dev/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/yashml-dev/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
